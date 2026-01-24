@@ -1,59 +1,29 @@
 [
   {
-    "category": "Latest",
     "title": "PSSSB Group D Recruitment 2026",
+    "category": "Punjab Jobs",
     "organization": "Punjab Subordinate Services Selection Board",
     "qualification": "10th Pass + Punjabi",
     "lastDate": "26 January 2026",
-    "description": "Punjab PSSSB Group D recruitment 2026 notification released. Selection will be through written exam.",
+    "description": "Punjab PSSSB Group D recruitment 2026 notification released. Selection will be through written examination.",
     "link": "https://sssb.punjab.gov.in"
   },
   {
-    "category": "Punjab",
-    "title": "Punjab Police Constable Recruitment 2026",
-    "organization": "Punjab Police Department",
-    "qualification": "12th Pass",
-    "lastDate": "15 February 2026",
-    "description": "Punjab Police Constable recruitment 2026 for male and female candidates. Online application invited.",
-    "link": "https://punjabpolice.gov.in"
+    "title": "RBI Office Assistant Recruitment 2026",
+    "category": "Latest Jobs",
+    "organization": "Reserve Bank of India (RBI)",
+    "qualification": "10th Pass",
+    "lastDate": "25 April 2026",
+    "description": "Reserve Bank of India has released notification for Office Assistant posts. Candidates can apply online after checking eligibility criteria.",
+    "link": "https://www.rbi.org.in"
   },
   {
+    "title": "PSSSB Group D Admit Card 2025",
     "category": "Admit Card",
-    "title": "PSSSB Group D Admit Card 2026",
-    "organization": "Punjab SSSB",
-    "qualification": "-",
-    "lastDate": "20 January 2026",
-    "description": "Download PSSSB Group D admit card 2026 from official site.",
-    "link": "https://sssb.punjab.gov.in/admitcard"
-  },
-  {
-    "category": "Result",
-    "title": "Punjab Patwari Result 2025",
-    "organization": "Punjab Revenue Department",
-    "qualification": "-",
-    "lastDate": "Published",
-    "description": "Punjab Patwari 2025 result announced. Check official PDF.",
-    "link": "https://punjab.gov.in/patwari-result"
+    "organization": "Punjab Subordinate Services Selection Board",
+    "qualification": "—",
+    "lastDate": "—",
+    "description": "PSSSB Group D written examination admit card has been released. Candidates can download admit card using registration details.",
+    "link": "https://sssb.punjab.gov.in"
   }
-{
-  "title": "RBI Office Assistant Recruitment 2026",
-  "category": "Latest Jobs",
-  "organization": "Reserve Bank of India (RBI)",
-  "qualification": "10th Pass (Matric)",
-  "lastDate": "25 April 2026",
-
-  "overview": "Reserve Bank of India (RBI) has released a notification for Office Assistant recruitment. Candidates who have passed 10th class are eligible to apply online for this post.",
-
-  "age": "18 to 30 Years (Age relaxation as per RBI recruitment rules)",
-
-  "fees": "General / OBC: ₹450\nSC / ST / PWD / Female: ₹50",
-
-  "selection": "Written Examination\nSkill Test\nDocument Verification",
-
-  "importantDates": "Application Start: March 2026\nLast Date to Apply: 25 April 2026\nExam Date: Notified Soon",
-
-  "applyProcess": "Candidates need to visit the official RBI website, complete registration, fill the application form, upload required documents and pay the application fee.",
-
-  "link": "https://www.rbi.org.in"
-}
 ]
