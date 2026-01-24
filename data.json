@@ -1,29 +1,38 @@
 [
   {
-    "title": "PSSSB Group D Recruitment 2026",
+    "category": "Latest Jobs",
+    "title": "RBI Office Assistant Recruitment 2026",
+    "organization": "Reserve Bank of India",
+    "qualification": "10th / 12th Pass",
+    "lastDate": "15 March 2026",
+    "description": "RBI Office Assistant recruitment notification released. Online application invited.",
+    "link": "https://rbi.org.in"
+  },
+  {
     "category": "Punjab Jobs",
+    "title": "PSSSB Group D Recruitment 2026",
     "organization": "Punjab Subordinate Services Selection Board",
     "qualification": "10th Pass + Punjabi",
     "lastDate": "26 January 2026",
-    "description": "Punjab PSSSB Group D recruitment 2026 notification released. Selection will be through written examination.",
+    "description": "Punjab PSSSB Group D recruitment. Selection through written exam.",
     "link": "https://sssb.punjab.gov.in"
   },
   {
-    "title": "RBI Office Assistant Recruitment 2026",
-    "category": "Latest Jobs",
-    "organization": "Reserve Bank of India (RBI)",
-    "qualification": "10th Pass",
-    "lastDate": "25 April 2026",
-    "description": "Reserve Bank of India has released notification for Office Assistant posts. Candidates can apply online after checking eligibility criteria.",
-    "link": "https://www.rbi.org.in"
-  },
-  {
-    "title": "PSSSB Group D Admit Card 2025",
     "category": "Admit Card",
-    "organization": "Punjab Subordinate Services Selection Board",
-    "qualification": "—",
-    "lastDate": "—",
-    "description": "PSSSB Group D written examination admit card has been released. Candidates can download admit card using registration details.",
+    "title": "PSSSB Group D Admit Card 2025",
+    "organization": "PSSSB Punjab",
+    "qualification": "-",
+    "lastDate": "-",
+    "description": "Download admit card for PSSSB Group D examination.",
     "link": "https://sssb.punjab.gov.in"
+  },
+  {
+    "category": "Result",
+    "title": "Punjab Police Constable Result 2025",
+    "organization": "Punjab Police",
+    "qualification": "-",
+    "lastDate": "-",
+    "description": "Punjab Police Constable result declared.",
+    "link": "https://punjabpolice.gov.in"
   }
 ]
