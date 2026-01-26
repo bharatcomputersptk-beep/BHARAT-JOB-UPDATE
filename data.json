@@ -1,38 +1,47 @@
 [
   {
     "category": "Latest",
+    "title": "RRB Group D Recruitment 2026",
+    "organization": "Railway Recruitment Board (RRB)",
+    "qualification": "10th Pass / ITI",
+    "lastdate": "Application opens from 30 January 2026",
+    "description": "Railway Recruitment Board (RRB) will release Group D (Level-1) recruitment for various posts such as Track Maintainer, Helper and Assistant in different railway departments. Selection will be based on CBT, Physical Efficiency Test (PET) and Document Verification.",
+    "link": "https://www.rrbapply.gov.in"
+  },
+  {
+    "category": "Latest",
     "title": "RBI Office Assistant Recruitment 2026",
     "organization": "Reserve Bank of India",
-    "qualification": "10th Pass",
+    "qualification": "10th / 12th Pass",
     "lastdate": "15 February 2026",
-    "description": "RBI Office Assistant recruitment for 10th pass candidates. Online application available.",
+    "description": "Reserve Bank of India has released Office Assistant recruitment notification. Eligible candidates can apply online through the official RBI website.",
     "link": "https://rbi.org.in"
   },
   {
     "category": "Punjab",
     "title": "PSSSB Group D Recruitment 2026",
     "organization": "Punjab Subordinate Services Selection Board",
-    "qualification": "10th Pass + Punjabi",
+    "qualification": "10th Pass with Punjabi",
     "lastdate": "26 January 2026",
-    "description": "Punjab PSSSB Group D recruitment notification released.",
+    "description": "Punjab PSSSB Group D recruitment notification released. Selection will be done through written examination and document verification.",
     "link": "https://sssb.punjab.gov.in"
   },
   {
     "category": "Admit Card",
     "title": "PSSSB Group D Admit Card 2025",
-    "organization": "PSSSB",
-    "qualification": "",
-    "lastdate": "",
-    "description": "Download admit card for PSSSB Group D Exam.",
+    "organization": "PSSSB Punjab",
+    "qualification": "-",
+    "lastdate": "-",
+    "description": "PSSSB Group D examination admit card is now available for download on the official website.",
     "link": "https://sssb.punjab.gov.in"
   },
   {
     "category": "Result",
     "title": "Punjab Police Constable Result 2025",
     "organization": "Punjab Police",
-    "qualification": "",
-    "lastdate": "",
-    "description": "Result declared for Punjab Police Constable Exam.",
+    "qualification": "-",
+    "lastdate": "-",
+    "description": "Punjab Police Constable examination result has been declared. Candidates can check their result online.",
     "link": "https://punjabpolice.gov.in"
   }
 ]
