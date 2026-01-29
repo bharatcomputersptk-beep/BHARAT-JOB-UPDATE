@@ -128,5 +128,59 @@ Apply well before the deadline to avoid last-minute issues..\n\nThe selection pr
     "lastdate": "As per admit card",
     "description": "Central Teacher Eligibility Test (CTET) 2026 admit card has been released. Candidates can download their admit card using application number and date of birth.\n\nThe admit card contains important details such as exam date, timing, exam centre and instructions.\n\n--------------------------------------\n\nहिंदी विवरण:\n\nकेंद्रीय शिक्षक पात्रता परीक्षा (CTET) 2026 का एडमिट कार्ड जारी कर दिया गया है। उम्मीदवार आवेदन संख्या और जन्म तिथि की सहायता से एडमिट कार्ड डाउनलोड कर सकते हैं।\n\nएडमिट कार्ड में परीक्षा की तिथि, समय, परीक्षा केंद्र और महत्वपूर्ण निर्देश दिए गए हैं।",
     "link": "https://ctet.nic.in"
-  }
+  },
+{{
+  "recruitment_name": "RRB Group D Recruitment 2026",
+  "organization": "Railway Recruitment Board (RRB)",
+  "ministry": "Ministry of Railways, Government of India",
+  "cen_number": "CEN 09/2025",
+  "post_level": "Level-1",
+  "total_vacancies": 22000,
+  "job_type": "Permanent Government Job",
+  "job_location": "All India",
+  "important_dates": {
+    "notification_release": "December 2025",
+    "application_start_date": "31 January 2026",
+    "application_last_date": "02 March 2026",
+    "exam_date": "To be announced",
+    "admit_card": "Before exam date"
+  },
+  "eligibility": {
+    "education": [
+      "10th Pass (Matriculation)",
+      "ITI from NCVT/SCVT",
+      "National Apprenticeship Certificate (NAC)"
+    ],
+    "age_limit": {
+      "minimum_age": 18,
+      "maximum_age": 33,
+      "age_calculation_date": "01 January 2026",
+      "age_relaxation": "As per Government rules"
+    },
+    "nationality": "Indian"
+  },
+  "selection_process": [
+    "Computer Based Test (CBT)",
+    "Physical Efficiency Test (PET)",
+    "Document Verification (DV)",
+    "Medical Examination"
+  ],
+  "salary": {
+    "pay_level": "Level-1",
+    "basic_pay": 18000,
+    "allowances": "As per Railway rules"
+  },
+  "application_fee": {
+    "general_obc_ews": 500,
+    "sc_st_pwd_women_transgender": 250,
+    "refund_policy": "Fee partially/refully refundable after CBT"
+  },
+  "application_mode": "Online",
+  "official_website": "https://www.rrbapply.gov.in",
+  "current_status": "Applications open / ongoing",
+  "notes": [
+    "Check official notification for exact details",
+    "Apply before last date to avoid server issues",
+    "Aadhaar details should match 10th certificate"
+}
 ]
